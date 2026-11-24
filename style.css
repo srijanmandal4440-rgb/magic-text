@@ -101,3 +101,16 @@ button:hover {
     margin-bottom: 0;
     color: #83ffd4;
 }
+.footer {
+    margin-top: 25px;
+    padding-top: 15px;
+    font-size: 13px;
+    color: #a99bbd;
+    opacity: 0.8;
+}
+
+.footer span {
+    color: #ff65d8;
+    font-weight: bold;
+    text-shadow: 0 0 10px #ff65d8;
+}
